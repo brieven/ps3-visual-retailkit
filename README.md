@@ -56,11 +56,10 @@ Safe for both CFW and HEN consoles.
 
  ## Credits
 
-a-xpk — GitHub
+brieven — GitHub
 
-rj3y — Discord
+brieven — Discord
 
-fortumart.com — Snapchat
 
  ## Support the Project
 <a href="https://ko-fi.com/a_xpk"> <img src="https://storage.ko-fi.com/cdn/kofi3.png" width="200" alt="Support on Ko-fi"> </a>
